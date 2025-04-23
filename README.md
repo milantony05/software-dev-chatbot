@@ -1,6 +1,6 @@
 # Software Development Chatbot
 
-An AI-powered chatbot designed to assist software developers by providing intelligent responses to development-related queries. Built using Node.js and integrates with OpenAI's API to deliver contextual and relevant answers.
+An AI-powered chatbot designed to assist software developers by providing intelligent responses to development-related queries. Built using Node.js and integrates with OpenAI's API to deliver contextual and relevant answers.
 
 ![chatwin1](https://github.com/user-attachments/assets/da824047-4f86-4ee9-8696-9c477d2d4285)
 
@@ -24,13 +24,11 @@ An AI-powered chatbot designed to assist software developers by providing intell
    git clone https://github.com/milantony05/software-dev-chatbot.git
    cd software-dev-chatbot
    ```
-
 
 2. **Install dependencies**:
    ```bash
    npm install
    ```
-
 
 3. **Configure OpenAI API**:
    - Create a `.env` file in the root directory.
@@ -43,14 +41,13 @@ An AI-powered chatbot designed to assist software developers by providing intell
    ```bash
    node server.js
    ```
-
 
 5. **Access the application**:
    - Open your browser and navigate to `http://localhost:3000`.
 
 ## Usage
 
-Once the server is running:
+Once the server is running:
 
 1. Navigate to `http://localhost:3000` in your browser.
 2. Enter your software development-related queries in the chat interface.
